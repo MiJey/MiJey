@@ -1,6 +1,6 @@
 # 블로그
-- (작업 중) https://mijey.github.io
-- https://mijey.tistory.com/
+- https://mijey.github.io
+- (업데이트 안함) https://mijey.tistory.com/
 
 # 포트폴리오
 
