@@ -1,6 +1,6 @@
 ## 👋 안녕하세요! 안드로이드 개발자 문예지입니다.
 
-### 저는
+#### 저는
 
 - Kotlin으로 Android Native 앱을 개발하고 있습니다.
 - 앱의 안정성을 높이기 위해 Jetpack, AAC, Coroutine, Flow 등 Android 최신 기술 동향에 지속적인 관심을 가지고 적용하고 있습니다.
@@ -13,23 +13,23 @@
 <details>
     <summary>자세히 보기</summary>
 
-### 주요 기술
+#### 주요 기술
 
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
 
-### 경력 및 활동
+#### 경력 및 활동
 
 - 2021.06 – 2021.08 라인파이낸셜플러스㈜ 인턴
 - 2018.12 – 2021.06 trimm Cycling Center Android 앱 개발
 - 2020.04 – 2020.07 bpm Android 앱 개발
 
-### 학력
+#### 학력
 
 - 2015.03 – 2021.02 한국항공대학교 소프트웨어학과 졸업
 - 2012.03 – 2015.01 한국디지털미디어고등학교 해킹방어과 졸업
 
-### 수상내역
+#### 수상내역
 
 - 2019.12 게임기획스터디 × 게임캠퍼스 제 4회 게임잼 우수상
 - 2014.02 한국마이크로소프트 해커톤 ‘말햌’ 1위
