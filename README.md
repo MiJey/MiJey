@@ -39,7 +39,7 @@
 
 ### 📌 trimm Cycling Center (2018.12 – 2021.06, 레이시오 유한책임회사)
   
-> Android, Kotlin, Firebase, Google Maps Flatform, Bluetooth LE, JNI<br>Embedded, C language, Nordic nRF
+> Android, Kotlin, Firebase, Google Maps Platform, Bluetooth LE, JNI<br>Embedded, C language, Nordic nRF
 
 ![trimm Cycling Center image](./image/trimm1.png)
 
@@ -52,7 +52,7 @@ trimm Cycling Center는 자전거 라이더를 위해 속도, 고도, 케이던�
 
 ### 📌 bpm (2020.04 – 2020.07, BEATS PER MINUTE INC.)
 
-> Android, Kotlin, Bluetooth LE, Google Maps Flatform
+> Android, Kotlin, Bluetooth LE, Google Maps Platform
 
 ![bpm image](./image/bpm1.png)
 
