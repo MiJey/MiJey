@@ -71,7 +71,7 @@ kingudom은 PC게임의 컨트롤러를 게임패드나 키보드가 아닌 사�
 [![Youtube Thumbnail](https://img.youtube.com/vi/bFm9S5y0Qi0/0.jpg)](https://youtu.be/bFm9S5y0Qi0)<br>
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtu.be/bFm9S5y0Qi0)](https://youtu.be/bFm9S5y0Qi0) 게기스 4회 게임잼 해커톤 스케치영상
 
-서버(Node.js): https://github.com/connect-pad/connect-pad-rewind <br>
+서비스(Web): https://github.com/connect-pad/connect-pad-rewind <br>
 컨트롤러(Android): https://github.com/MiJey/Kingudom-Android
 
 ### 📌 덤벼라! (2018.05 – 2018.06)
